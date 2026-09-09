@@ -1,18 +1,16 @@
-## Hi there 👋
+### ♪(๑ᴖ◡ᴖ๑)♪
 
-♪(๑ᴖ◡ᴖ๑)♪
+I love to code !
 
-<!--
-**jcastn/jcastn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### About me : 
+- I'm a **student** at **42 Paris** school. 
+- I’m currently **working on** : **Simu-Logic** (a logic circuits simulator written in C language).  
+- I'm learning :
+  - **Low level programming**
+  - **Reverse Engieering**
+  - **Cybersecurity**
+  - **Networks**
+- You can contact me:
+  - **Mail** : **jcastn.dev@gmail.com**
+  - **LinkedIn** : [@juliencastan](https://www.linkedin.com/in/juliencastan**)
